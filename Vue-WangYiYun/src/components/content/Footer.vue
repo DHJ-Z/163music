@@ -14,7 +14,7 @@
     <van-tabbar-item name="mine" icon="contact" to="/mine"
       >我的</van-tabbar-item
     >
-     <van-tabbar-item name="singing" icon="service-o" to="/singing"
+     <van-tabbar-item name="singing" icon="service-o" to="/singing" badge="Hot"
       >K歌</van-tabbar-item
     >
     <van-tabbar-item name="cloudvillage" icon="friends-o" to="/cloudvillage"

@@ -12,10 +12,14 @@ import request from "./util/request";
 import rem from "./util/rem";
 import APlayer from '@moefe/vue-aplayer';
 import elementui from "element-ui";
+import { Badge } from 'vant';
+import { Empty } from 'vant';
 Vue.use(rem);
 Vue.use(elementui);
 Vue.use(Vant);
 Vue.use(MintUI);
+Vue.use(Badge);
+Vue.use(Empty);
 Vue.use(APlayer, {
     defaultCover: 'https://github.com/u3u.png',
     productionTip: true,
