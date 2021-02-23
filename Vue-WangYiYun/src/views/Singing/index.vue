@@ -16,7 +16,6 @@ export default {
 </script>
 
 <style>
-
   .custom-image .van-empty__image {
     width: 100%;
     height:  100%;
@@ -30,6 +29,4 @@ export default {
 	visibility: hidden;
 	display: block;
 }
-
-
 </style>
